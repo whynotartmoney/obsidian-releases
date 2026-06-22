@@ -21313,7 +21313,27 @@
     "author": "bob",
     "description": "Launch sync tools, system apps, or mobile shortcuts directly from the ribbon to streamline your workflow. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "iibob/obsidian-app-launcher"
+  },{
+    "id": "vintage-decorations",
+    "name": "Vintage Decorations",
+    "author": "ClassicDev",
+    "description": "Retro styling options.",
+    "repo": "ClassicDev/obsidian-vintage"
   },
+  {
+    "id": "visual-covers",
+    "name": "Visual Covers",
+    "author": "Your GitHub Username",
+    "description": "Transforms your folder notes and markdown vaults into a beautiful, interactive 1:1 CD and Vinyl record covers wall.",
+    "repo": "your-github-username/obsidian-visual-covers"
+  },
+  {
+    "id": "voice-to-text-notes",
+    "name": "Voice-to-Text Notes",
+    "author": "AudioDev",
+    "description": "Speech transcription utility.",
+    "repo": "AudioDev/obsidian-voice"
+  }
   {
     "id": "vault-svn",
     "name": "Vault SVN",
