@@ -7,6 +7,13 @@
     "repo": "tgrosinger/advanced-tables-obsidian"
   },
   {
+  "id": "obsidian-visual-covers",
+  "name": "obsidian-visual-covers",
+  "author": "whynotartmoney",
+  "description": " turning textual note lists and folder items into a highly aesthetic.",
+  "repo": "whynotartmoney/obsidian-visual-covers"
+  },
+  {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
     "author": "argenos",
